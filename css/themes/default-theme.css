@@ -1,0 +1,221 @@
+
+/*=======================================
+Template Design By WpFreeware Team.
+Author URI : http://www.wpfreeware.com/
+========================================*/
+
+.navbar-default .navbar-brand span{
+  color: #CC3363;
+}
+.navbar-default .navbar-brand span{
+  color: #CC3363;
+}
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+    color: #CC3363;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+   color: #CC3363;
+}
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+  color: #CC3363 !important;  
+}
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #CC3363;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+  background-color: transparent;
+  color: #CC3363;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+  color: #CC3363;
+}
+.slides-pagination a.current {  
+  background-color: #CC3363;
+}
+.slider_btn:hover,.slider_btn:focus{  
+  color: #CC3363;
+  border-color: #CC3363; 
+}
+.titile:after{ 
+  background-color: #CC3363;
+}
+.feed_tabs{border-bottom: 2px solid #CC3363;}
+.feed_tabs li.active a,.feed_tabs li.active a:hover,.feed_tabs li.active a:focus{
+  border:2px solid;
+  color: #CC3363 !important; 
+  border-color: #CC3363 #CC3363 transparent;
+}
+
+.feed_tabs li a:hover{ 
+  background-color: #CC3363;
+}
+.news_tab .media-body > a :hover{
+  color: #CC3363;
+}
+.see_all:hover, .see_all:focus{
+  border-color:#CC3363;
+  color: #CC3363;  
+}
+.single_notice_pane .slick-prev {
+  background-color: #CC3363; 
+}
+.single_notice_pane .slick-next {
+  background-color: #CC3363;  
+}
+.title_area span{  
+  background: none repeat scroll 0 0 #CC3363;
+}
+.whyus_icon{
+  background: none repeat scroll 0 0 #CC3363;  
+}
+.course_more:hover,.course_more:focus {
+  color: #CC3363;    
+}
+.singCourse_title a:hover{  
+  color: #CC3363;
+}
+.singCourse_price{
+  color: #CC3363;
+}
+.tutors_thumb {
+  background: none repeat scroll 0 0 #CC3363;
+}
+.singTutors_content>span{
+  background-color: #CC3363;
+}
+.tutors_socnav li a:hover,.tutors_socnav li a:focus{
+  color: #CC3363;
+  border-color: #CC3363;
+}
+.tutors_nav .slick-dots li.slick-active{
+  border-color: #CC3363;
+}
+.stsTestimonial_content > p {
+  color: #CC3363;
+}
+.scrollToTop:hover{
+  background-color: #CC3363;  
+}
+.footer_bootomLeft a{
+  color: #CC3363;
+}
+.pagination li a{
+  color: #CC3363;
+}
+.pagination li a:hover,.pagination li a:focus{
+  background-color: #CC3363;
+}
+.single_blog_archive {
+  border-bottom: 3px solid #CC3363;  
+}
+.blog_title a:hover{
+  color: #CC3363;
+}
+.blog_commentbox > p:hover{
+  color: #CC3363;
+}
+.blog_commentbox>a:hover{
+  color: #CC3363;
+}
+.blog_readmore:hover,.blog_readmore:focus{  
+  color: #CC3363;
+}
+.blog_readmore:hover::before,
+.blog_readmore:hover::after,
+.blog_readmore:focus::before,
+.blog_readmore:focus::after {
+  color: #CC3363; 
+}
+.tags_nav li a:hover,.tags_nav li a:focus{  
+  background-color: #CC3363;
+}
+.single_blog blockquote>span{
+  color: #CC3363;
+}
+.single_blog ul li > span {
+  color: #CC3363;
+}
+.prev_post:hover{
+  color: #CC3363;
+  border-color: #CC3363; 
+}
+.next_post:hover{
+  color: #CC3363;
+  border-color: #CC3363;
+}
+.related_post > h2 {
+  color: #CC3363;
+}
+.events_slider .slick-prev,.events_slider .slick-next {
+  background-color: #CC3363;
+}
+.error_page_content h1:after, .error_page_content h1:before {
+  border: 2px solid #CC3363;
+}
+.error_page_content p>a:hover{
+  color: #CC3363;
+}
+.error_page_content p:before {
+  border-top: 1px solid #CC3363;
+}
+.error_page_content p:after {
+  border-top: 1px solid #CC3363;
+}
+.error_page_content p {
+  border-bottom: 2px solid #CC3363;
+  border-top: 2px solid #CC3363;
+}
+.error_page_content h1 {  
+  color: #CC3363;
+}
+.wp-form-control:focus{
+  border: 1px solid #CC3363;
+}
+.wpcf7-submit {
+  border: 1px solid #CC3363;
+  color: #CC3363;  
+}
+.wpcf7-submit:hover,.wpcf7-submit:focus{
+  background-color: #CC3363;
+  color: #ffffff;
+}
+.footer_widget_nav li a {
+  color: #CC3363;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+  color: #CC3363 !important;  
+}
+.single_sidebar > h2 {
+  background-color: #CC3363;
+}
+.singlecourse_price {  
+  color: #CC3363;
+}
+.course_table thead{
+  background-color: #CC3363;
+}
+.related_course > h2 {
+  color: #CC3363;  
+}
+.single_sidebar > ul > li>a:hover,.single_sidebar > ul > li>a:focus{
+  color: #CC3363;
+}
+.news_tab .media-body > a:hover {
+  color: #CC3363;
+}
+
+
+/*Header nav color*/
+/*.navbar-default {
+  background-color: #313b3d;
+}*/
+
+/*Footer top color*/
+/*.footer_top {
+  background-color: #1e2223;  
+}*/
+
+/*=======================================
+Template Design By WpFreeware Team.
+Author URI : http://www.wpfreeware.com/
+========================================*/
